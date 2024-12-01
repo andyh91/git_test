@@ -1,1 +1,1 @@
-# git_test
+This project is to create a basic website using the previous HTML skills I learned. The wbsite will be about a recipe to cook a dish.
